@@ -1,5 +1,10 @@
 # dva-wyj
-阿里dva数据流的简单实现
+阿里dva数据流的简单实现，已发布到npm
+## Usage
+
+```
+npm install dva-wyj --save
+```
 
 ## api基本和dva一样，只实现了数据流部分，仅120行左右代码
 ## 支持initialState、onStateChange、onError钩子
